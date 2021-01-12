@@ -2,13 +2,13 @@
 
 ### Hi there 👋
 🌱 **learning** 
--OOP
--Spring Framework
--Data Structure & Algorithm
+- OOP
+- Spring Framework
+- Data Structure & Algorithm
 
 🤔 **interesting**
--Spring Boot
--Spring Security
--JPA
+- Spring Boot
+- Spring Security
+- JPA
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Frankle97)](https://github.com/anuraghazra/github-readme-stats)
