@@ -6,7 +6,7 @@
 - Spring Framework
 - Data Structure & Algorithm
 
-🤔 **interesting**
+🤔 **Interesting**
 - Spring Boot
 - Spring Security
 - JPA
