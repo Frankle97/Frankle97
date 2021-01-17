@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### 📖 Learning
 * **OOP**
 * **Spring Framework**
