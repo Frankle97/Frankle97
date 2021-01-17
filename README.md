@@ -10,4 +10,3 @@
 * **Spring Boot**
 * **JPA**
 * **Spring Security**
-* **Linux**
