@@ -7,5 +7,4 @@
 * **TDD**
 * **Spring Boot**
 * **JPA**
-* **Spring Security**
-* **AWS**
+* **Effective Java**
