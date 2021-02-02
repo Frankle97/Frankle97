@@ -4,7 +4,7 @@
 * **Data Structure & Algorithm**
 
 ### 📋 Interesting
-* **TDD**
 * **Spring Boot**
 * **JPA**
+* **TDD**
 * **Effective Java**
