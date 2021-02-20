@@ -1,10 +1,10 @@
 ### 📖 Learning
 * **OOP**
 * **Spring Framework**
+* **Spring Boot**
 * **Data Structure & Algorithm**
 
 ### 📋 Interesting
-* **Spring Boot**
-* **JPA**
+* **JPA / Hibernate**
 * **TDD**
 * **Effective Java**
