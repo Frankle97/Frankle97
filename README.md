@@ -1,11 +1,9 @@
 ### 📖 Learning
 * **OOP**
 * **Java**
-* **Spring Framework**
-* **Spring Boot**
-* **Spring MVC** 
+* **Spring Boot/Framework**
+
 ### 📋 Interesting
-* **Spring Security**
 * **JPA / Hibernate**
 * **TDD**
 * **Effective Java**
