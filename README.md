@@ -7,5 +7,4 @@
 * **JPA / Hibernate**
 * **Data Structure & Algorithm**
 * **TDD**
-* **DDD**
 
