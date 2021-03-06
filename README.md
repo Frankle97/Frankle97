@@ -6,4 +6,5 @@
 ### 📋 Interesting
 * **JPA / Hibernate**
 * **TDD**
+* **DDD**
 * **Data Structure & Algorithm**
