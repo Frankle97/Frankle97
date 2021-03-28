@@ -1,7 +1,7 @@
 ### 📖 Learning
 * **OOP**
 * **Java**
-* **Spring Boot/Framework**
+* **Spring Framework**
 * **Data Structure & Algorithm**
 
 ### 📋 Interesting
