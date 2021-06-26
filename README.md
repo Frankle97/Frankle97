@@ -1,11 +1,10 @@
 ### 📖 Learning
-* **OOP**
-* **Java**
-* **Spring Framework**
-* **Data Structure & Algorithm**
+* **Spring Framework with Tobi**
 
-### 📋 Interesting
+### 📋 Planning
+* **Data Structure & Algorithm**
 * **Clean Code**
 * **TDD**
+* **Design Pattern**
 
 
