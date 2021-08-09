@@ -1,5 +1,5 @@
 ### 📖 Learning
-* **Spring Framework with Tobi**
+* **Spring Framework**
 
 ### 📋 Planning
 * **Data Structure & Algorithm**
