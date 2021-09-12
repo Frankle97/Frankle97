@@ -3,8 +3,9 @@
 
 ### 📋 Planning
 * **Data Structure & Algorithm**
+* * **TDD**
 * **Clean Code**
-* **TDD**
+* **Effective Java**
 * **Design Pattern**
 
 
