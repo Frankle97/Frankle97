@@ -1,6 +1,7 @@
 ### 📖 Learning
 * **Spring Framework**
 * **Network**
+* **Java 8**
 
 ### 📋 Planning
 * **Data Structure & Algorithm**
