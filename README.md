@@ -1,6 +1,5 @@
 ### 📖 Learning
 * **Java & Spring**
-* **Spring**
 * **Clean Code**
 * **Effective Java**
 * **Computer Sience**
