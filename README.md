@@ -1,11 +1,11 @@
 ### 📖 Learning
-* **Spring Framework**
-* **Network**
-* **Java 8**
+* **Java & Spring**
+* **Spring**
+* **Clean Code**
+* **Effective Java**
+* **Computer Sience**
 
 ### 📋 Planning
 * **Data Structure & Algorithm**
 * **TDD**
-* **Clean Code**
-* **Effective Java**
 * **Design Pattern**
