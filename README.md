@@ -5,7 +5,7 @@
 * **Computer Sience**
 
 ### 📋 Planning
-* **Real MySQL 8.0**
+* **MySQL(MariaDB)**
 * **Data Structure & Algorithm**
 * **TDD**
 * **Design Pattern**
