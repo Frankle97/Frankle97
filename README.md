@@ -4,4 +4,6 @@
 
 기술 부채를 최소화하고 멤버들과 협업을 통해 고품질 소프트웨어로 발전시키는 방법에 관심이 있습니다.
 
+📚 **[Study History](https://glistening-calendula-de1.notion.site/Study-History-8c71e20ac51641de9830aab94d9ba43f)**
+
 ![Frankle's github stats](https://github-readme-stats.vercel.app/api?username=frankle97&show_icons=true&theme=tokyonight)
